@@ -2,7 +2,8 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently working as an Engineer with an Engineering Consultancy.
+Previously, I studies an MSc in Renewable Energy in the Marine Environmet where I studied across 3 different universities. I specialized in Power Electronics and Control for Offshore Renewable Energy Systems.
 
 #### Email
 sli[at]cumt.edu.cn
